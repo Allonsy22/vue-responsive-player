@@ -2,7 +2,7 @@
 
 Responsive music player created using Vue2, store - Vuex, plugin - Vuetify, audio manager - howler.js
 
-![Example](https://drive.google.com/file/d/1G93D7wmdf-Q_TPlr4wEetd3Vhz_Xhrxc/view?usp=sharing)
+![Example](https://github.com/Allonsy22/vue-responsive-player/assets/vrp.jpg)
 
 ## Documentation
 
