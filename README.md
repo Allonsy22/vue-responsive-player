@@ -1,24 +1,21 @@
-# client
+# Responsive player made with Vue2, Vuex, Vuetify, howler.js
 
-## Project setup
-```
-npm install
-```
+Responsive music player created using Vue2, store - Vuex, plugin - Vuetify, audio manager - howler.js
 
-### Compiles and hot-reloads for development
+
+## Installation
+
+Clone repo https://github.com/Allonsy22/stick-game.git;
+
+_client_
+```
+cd client && npm install
+```
+## Usage
+_client folder_
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
